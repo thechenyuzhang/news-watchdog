@@ -334,5 +334,5 @@ Tesla / Elon Musk, SpaceX / Starship / Starlink, xAI, Apple, Nvidia (GTC, Jensen
 2. Section order: **Trends / topics / directions** → Early signals / stealth radar → **What to read / what to watch** → **Big tech news & upcoming events (L)** → Lab site updates → Lab/Luma events → Incubator apps & events → News/products → Papers/discourse → Bay Area events.
 3. Prefer primary sources; skip rumor without sourcing.
 4. Deduplicate vs yesterday’s brief; only carry forward with material updates.
-5. Publish `briefs/YYYY-MM-DD.md` to main on CharlieChenyuZhang/news-watchdog via `gh` Contents API.
+5. Publish `briefs/YYYY-MM-DD.md` to main on thechenyuzhang/news-watchdog via `gh` Contents API.
 6. User notify: link + TLDR + **trends callouts** + early-signal callouts + **1–3 read/watch picks** + **big-tech heads-up (next 14 days) + any huge story from the last day** + open apps/deadlines.
